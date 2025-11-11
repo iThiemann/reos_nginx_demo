@@ -1,1 +1,10 @@
 # reos_nginx_demo
+
+# 1. init
+terraform init
+
+# 2. see what will be created
+terraform plan
+
+# 3. create resources
+terraform apply
